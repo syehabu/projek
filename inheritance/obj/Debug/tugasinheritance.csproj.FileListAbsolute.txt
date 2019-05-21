@@ -1,0 +1,7 @@
+D:\18.11.2306\tugasinheritance\inheritance\bin\Debug\Pewarisan.exe.config
+D:\18.11.2306\tugasinheritance\inheritance\bin\Debug\Pewarisan.exe
+D:\18.11.2306\tugasinheritance\inheritance\bin\Debug\Pewarisan.pdb
+D:\18.11.2306\tugasinheritance\inheritance\obj\Debug\tugasinheritance.csprojAssemblyReference.cache
+D:\18.11.2306\tugasinheritance\inheritance\obj\Debug\tugasinheritance.csproj.CoreCompileInputs.cache
+D:\18.11.2306\tugasinheritance\inheritance\obj\Debug\Pewarisan.exe
+D:\18.11.2306\tugasinheritance\inheritance\obj\Debug\Pewarisan.pdb
